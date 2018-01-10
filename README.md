@@ -1,2 +1,2 @@
 # kakas
-mata kuliah
+mata kuliah sistem informasi
